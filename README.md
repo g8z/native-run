@@ -3,7 +3,7 @@
 [![npm](https://img.shields.io/npm/v/native-run.svg?style=flat-square)](https://www.npmjs.com/package/native-run)
 
 # native-run
-
+#
 `native-run` is a cross-platform command-line utility for running native app binaries (`.ipa` and `.apk` files) on iOS and Android devices. It can be used for both hardware and virtual devices.
 
 This tool is used by the Ionic CLI, but it can be used standalone as part of a development or testing pipeline for launching apps. It doesn't matter whether the `.apk` or `.ipa` is created with Cordova or native IDEs, `native-run` will be able to deploy it.
